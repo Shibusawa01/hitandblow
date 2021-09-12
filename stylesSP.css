@@ -1,0 +1,71 @@
+html{
+  background-color: #DFF8EB;
+ }
+ 
+ .title {
+   text-align: center;
+ }
+ 
+ .explanation {
+   text-align: center;
+ }
+ 
+ footer {
+   width: 100%;
+   opacity: 0.5;
+   text-align: center;
+ }
+ 
+ .decision > table {
+   border: 0px none;
+   width:50%;
+   font-size: 20px;
+ }
+ 
+ .HB > th {
+   width:100%;
+   display:block;
+   padding-bottom: 10px;
+ }
+ 
+ .decision {
+   display:flex;
+ }
+
+ select {
+   width: 70px;
+ }
+
+ h2 {
+ text-align: center;
+ }
+
+.tbresult {
+  color: white;
+  background-color: #0471ff;
+  border-collapse: collapse; 
+  border-color: #0471ff;
+  width: 100%;
+  text-align: center;
+}
+
+.number {
+  width: 100%;
+}
+
+.number>th {
+  width: 60%;
+}
+
+.number>td {
+  width: 20%;
+}
+
+.number input[type="text"] {
+  width:100%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+}
+
